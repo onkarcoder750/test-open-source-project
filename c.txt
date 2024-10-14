@@ -2,4 +2,8 @@ Hello developers... [C.txt file from the local repository]
 Here we are going to learn the concept of merge conflict
 How to resolve the merge conflict in different files
 
+Hello developers... [C.txt file from the remote repository]
+Welcome to the world of open source contributions
+Use proper steps to understand how to contribute to open source projects
+
 

@@ -1,0 +1,5 @@
+Hello developers... [C.txt file from the local repository]
+Here we are going to learn the concept of merge conflict
+How to resolve the merge conflict in different files
+
+
